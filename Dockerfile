@@ -1,4 +1,4 @@
-FROM rootproject/root:latest
+FROM rootproject/root:6.28.00-ubuntu22.04
 
 ENV PANDA_WORKDIR /
 WORKDIR /work
